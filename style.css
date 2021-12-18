@@ -97,7 +97,7 @@ h1 {
 
 .btn {
   border-radius: 50%;
-  background-color: #20ee0d;
+  background-color: #ee0dbd;
   color: #222;
   font-size: 2rem;
   font-family: inherit;
@@ -116,4 +116,7 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+.input-label {
+  padding-bottom: 20px;
 }
